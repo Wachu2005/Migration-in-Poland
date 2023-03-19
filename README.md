@@ -1,3 +1,4 @@
+
 # Miggration Net in Poland prediction
 
 
@@ -5,6 +6,7 @@ This project was my job from Upwork, the goal of my client was to predict Miggra
 ## Screenshots
 
 ![alt text](https://github.com/Wachu2005/Miggration-in-Poland/blob/master/Readme-images/Zrzut%20ekranu%202023-03-19%20220812.png)
+GDP IN LAST 20 YEARS IN POLAND
 
 ![alt text](https://github.com/Wachu2005/Miggration-in-Poland/blob/master/Readme-images/GDP%20in%20last%2020%20years.png)
 
@@ -26,5 +28,6 @@ Pandas,
 Seaborn,
 Matplotlib,
 DataBricks
+
 
 
