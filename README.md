@@ -1,5 +1,5 @@
 
-# Miggration Net in Poland prediction
+# Migration Net in Poland prediction
 
 
 This project was my job from Upwork, the goal of my client was to predict Miggration Net in Poland based on GDP in given year. Data I was given was scraped and it shows GDP and Miggration Net in multiple countries. I did data analysis and Scaled, Deleted outliers etc, and prepared dataset to be trained on data that refers to Poland. As follows I fited data to diffrent models and evaluate the error. Simple linear regression performed the best because of the limited data samples. My Client was satisified with the results.
